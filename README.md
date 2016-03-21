@@ -1,7 +1,7 @@
 # Scrapy-Video-Tutorials
 A comprehensive list of free video tutorials for Python Scrapy
 
-## PyTexas - Michael Herman (2013)
+## PyTexas (2013)
 - [Scraping the Web with Scrapy](https://www.youtube.com/watch?v=eD8XVXLlUTE)
 
 ## Michael Herman (2012)
