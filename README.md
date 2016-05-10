@@ -1,6 +1,8 @@
 # Scrapy-Video-Tutorials
 A comprehensive list of free video tutorials for Python Scrapy
 
+I am open to pull requests or reported issues
+
 ## DrapsTv (2014)
 - [What is Web Scraping? (4:07)](https://www.youtube.com/watch?v=JVwj2BCb9GI)
 - [Image Scrapy Bot (33:31)](https://www.youtube.com/watch?v=smT8kDBICAA)
