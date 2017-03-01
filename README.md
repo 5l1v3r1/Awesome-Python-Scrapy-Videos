@@ -1,4 +1,4 @@
-# Scrapy-Video-Tutorials
+# Awesome Python Scrapy Videos
 A comprehensive list of free video tutorials for Python Scrapy
 
 I am open to pull requests or reported issues
